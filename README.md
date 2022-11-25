@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Thomas aka onyx or blackbird or a combination of it
+- 👀 I’m a full stack developer with focus on Java (Spring Boot) in the backend and Vue 3 in the front end
+- 💞️ I’m looking to collaborate on creating some browser games written in Vue, like: https://github.com/onyx-blackbird/vue-snake, running version: https://snake.the-blackbird.com/ 
+- 📫 How to reach me: either here or in the official Vue Land/Vite Land Discord channels as Onyx#4805
